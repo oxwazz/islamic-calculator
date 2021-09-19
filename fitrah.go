@@ -1,4 +1,4 @@
-package islamic_calculator
+package islamiccalc
 
 // islamiccalc d
 
