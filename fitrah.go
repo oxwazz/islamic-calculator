@@ -1,4 +1,4 @@
-package zakat
+package islamiccalc
 
 type Fitrah struct {
 	OneShaInPrice float32 // 1 sha' = 4 muds = 2.6 ~ 3.0kg of staple food
